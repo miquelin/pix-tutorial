@@ -1,7 +1,7 @@
 
 <div class="figure">
   <center><img src="https://logospng.org/download/pix/logo-pix-icone-512.png" width="50" height="50"
-       <h1 align="center"><b>   PIX Tuturial</b></h1>
+       <h1 align="center"><b>   PIX Tutorial</b></h1>
 </div>
 <br />
 <br />
