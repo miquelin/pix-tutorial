@@ -17,4 +17,4 @@
 
 At the end of the registration, you will receive a message confirming the configuration of PIX key. 
 
-For more information, see [pix.](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md)
+For more information, see [pix](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md).
