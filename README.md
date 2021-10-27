@@ -9,8 +9,8 @@
 This repository provides tutorial for configure PIX key and a brief description about what is PIX.
 <br />
 <br />
-To acces tutorial click [here](https://github.com/miquelin/pix-tutorial/blob/main/tutorialPix.md).
+Acces [tutorial](https://github.com/miquelin/pix-tutorial/blob/main/tutorialPix.md).
 <br />
-To know about Pix, click [here.](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md)
+For more information about PIX, see [description](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md).
 
 
