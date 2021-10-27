@@ -14,4 +14,4 @@
 8. Enter your online banking password  
 9. Click 'Continue' to confirm the transaction 
 
-For more information, see  [pix](/home/michellemiquelin/Documentos/Knowledge/Technical_Writer/aboutPix)
+For more information, see  [pix](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md)
