@@ -1,2 +1,3 @@
 # pix-tutorial
-Tutorial to configure PIX
+
+[Tutorial](https://github.com/miquelin/pix-tutorial/blob/main/tutorialPix.md) to configure PIX
