@@ -9,9 +9,12 @@
    - CPF
    - Cell phone
    - E-mail
+   - Random keys
 6. Fill out the fields with the required information for the PIX key
 7. Click 'Continue' 
 8. Enter your online banking password  
-9. Click 'Continue' to confirm the transaction 
+9. Click 'Continue' to confirm the transaction
 
-For more information, see  [pix](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md)
+At the end of the registration, you will receive a message confirming the configuration of PIX key. 
+
+For more information, see [pix.](https://github.com/miquelin/pix-tutorial/blob/main/aboutPix.md)
